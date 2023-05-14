@@ -1,1 +1,1 @@
-# home_price
+# home_price_predictor
